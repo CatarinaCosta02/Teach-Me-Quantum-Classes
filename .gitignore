@@ -1,0 +1,5 @@
+ignore/*
+generate_slides.bat
+generate_slides.sh
+.ipynb_checkpoints
+__pycache__
